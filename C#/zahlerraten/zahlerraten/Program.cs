@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace zahlerraten
 {
@@ -6,7 +6,7 @@ namespace zahlerraten
     {
         static void Main(string[] args)
         {
-          
+
             int anz_versuche = 0;
             int alte_differenz = 100;
             int zahl;
@@ -19,7 +19,8 @@ namespace zahlerraten
             Console.WriteLine("Rate meine Zahl, die zwischen 1 und 100 liegt");
             Console.WriteLine("");
             Console.WriteLine("Der Abstand zur Zahl wird Zuerst mit 100 angenommen");
-            do {
+            do
+            {
                 Console.Write("Bitte gib eine Zahl ein: ");
                 zahl = Convert.ToInt32(Console.ReadLine());
                 neue_differenz = Math.Abs(zufallszahl - zahl);
@@ -32,16 +33,16 @@ namespace zahlerraten
                         Console.WriteLine("");
 
                     }
-                    
+
 
                 }
                 else
                 {
-                    if(neue_differenz > alte_differenz)
+                    if (neue_differenz > alte_differenz)
                     {
                         Console.WriteLine("kaelter -> Du hast Dich in dieser Runde der Zahl entfernt");
                         Console.WriteLine("");
-                       
+
                     }
                     else
                     {
@@ -54,9 +55,9 @@ namespace zahlerraten
                 alte_differenz = neue_differenz;
 
             } while (alte_differenz != 0);
-      
+
             Console.WriteLine("Glueckwunsch");
-            Console.WriteLine("Du hast die Zahl mit "+anz_versuche+" Versuch(en) erraten");
+            Console.WriteLine("Du hast die Zahl mit " + anz_versuche + " Versuch(en) erraten");
             Console.ReadKey();
         }
 
