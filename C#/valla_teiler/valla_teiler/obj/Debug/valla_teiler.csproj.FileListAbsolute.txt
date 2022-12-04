@@ -1,0 +1,8 @@
+D:\C#\valla_teiler\valla_teiler\bin\Debug\valla_teiler.exe.config
+D:\C#\valla_teiler\valla_teiler\bin\Debug\valla_teiler.exe
+D:\C#\valla_teiler\valla_teiler\bin\Debug\valla_teiler.pdb
+D:\C#\valla_teiler\valla_teiler\obj\Debug\valla_teiler.csproj.AssemblyReference.cache
+D:\C#\valla_teiler\valla_teiler\obj\Debug\valla_teiler.csproj.SuggestedBindingRedirects.cache
+D:\C#\valla_teiler\valla_teiler\obj\Debug\valla_teiler.csproj.CoreCompileInputs.cache
+D:\C#\valla_teiler\valla_teiler\obj\Debug\valla_teiler.exe
+D:\C#\valla_teiler\valla_teiler\obj\Debug\valla_teiler.pdb
