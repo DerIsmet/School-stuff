@@ -1,0 +1,8 @@
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\bin\Debug\one_to_hundert.exe.config
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\bin\Debug\one_to_hundert.exe
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\bin\Debug\one_to_hundert.pdb
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\obj\Debug\one_to_hundert.csproj.AssemblyReference.cache
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\obj\Debug\one_to_hundert.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\obj\Debug\one_to_hundert.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\obj\Debug\one_to_hundert.exe
+D:\schule\Ka übung\one_to_hundert\one_to_hundert\obj\Debug\one_to_hundert.pdb

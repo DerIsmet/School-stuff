@@ -1,0 +1,8 @@
+D:\schule\Ka übung\number_doubler\number_doubler\bin\Debug\number_doubler.exe.config
+D:\schule\Ka übung\number_doubler\number_doubler\bin\Debug\number_doubler.exe
+D:\schule\Ka übung\number_doubler\number_doubler\bin\Debug\number_doubler.pdb
+D:\schule\Ka übung\number_doubler\number_doubler\obj\Debug\number_doubler.csproj.AssemblyReference.cache
+D:\schule\Ka übung\number_doubler\number_doubler\obj\Debug\number_doubler.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\number_doubler\number_doubler\obj\Debug\number_doubler.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\number_doubler\number_doubler\obj\Debug\number_doubler.exe
+D:\schule\Ka übung\number_doubler\number_doubler\obj\Debug\number_doubler.pdb

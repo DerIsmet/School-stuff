@@ -1,0 +1,8 @@
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\bin\Debug\mutli_tool_calculator.exe.config
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\bin\Debug\mutli_tool_calculator.exe
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\bin\Debug\mutli_tool_calculator.pdb
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\obj\Debug\mutli_tool_calculator.csproj.AssemblyReference.cache
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\obj\Debug\mutli_tool_calculator.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\obj\Debug\mutli_tool_calculator.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\obj\Debug\mutli_tool_calculator.exe
+D:\schule\Ka übung\mutli_tool_calculator\mutli_tool_calculator\obj\Debug\mutli_tool_calculator.pdb
