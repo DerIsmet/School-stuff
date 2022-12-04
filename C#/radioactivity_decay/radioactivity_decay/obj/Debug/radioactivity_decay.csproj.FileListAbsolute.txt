@@ -1,0 +1,8 @@
+D:\C#\radioactivity_decay\radioactivity_decay\bin\Debug\radioactivity_decay.exe.config
+D:\C#\radioactivity_decay\radioactivity_decay\bin\Debug\radioactivity_decay.exe
+D:\C#\radioactivity_decay\radioactivity_decay\bin\Debug\radioactivity_decay.pdb
+D:\C#\radioactivity_decay\radioactivity_decay\obj\Debug\radioactivity_decay.csproj.AssemblyReference.cache
+D:\C#\radioactivity_decay\radioactivity_decay\obj\Debug\radioactivity_decay.csproj.SuggestedBindingRedirects.cache
+D:\C#\radioactivity_decay\radioactivity_decay\obj\Debug\radioactivity_decay.csproj.CoreCompileInputs.cache
+D:\C#\radioactivity_decay\radioactivity_decay\obj\Debug\radioactivity_decay.exe
+D:\C#\radioactivity_decay\radioactivity_decay\obj\Debug\radioactivity_decay.pdb
