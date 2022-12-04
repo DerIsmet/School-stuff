@@ -1,0 +1,8 @@
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\bin\Debug\calculation_of__circle_area.exe.config
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\bin\Debug\calculation_of__circle_area.exe
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\bin\Debug\calculation_of__circle_area.pdb
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\obj\Debug\calculation_of__circle_area.csproj.AssemblyReference.cache
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\obj\Debug\calculation_of__circle_area.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\obj\Debug\calculation_of__circle_area.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\obj\Debug\calculation_of__circle_area.exe
+D:\schule\Ka übung\calculation_of__circle_area\calculation_of__circle_area\obj\Debug\calculation_of__circle_area.pdb

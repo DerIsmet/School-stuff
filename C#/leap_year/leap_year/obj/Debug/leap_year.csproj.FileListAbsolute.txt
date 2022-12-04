@@ -1,0 +1,8 @@
+D:\schule\Ka übung\leap_year\leap_year\bin\Debug\leap_year.exe.config
+D:\schule\Ka übung\leap_year\leap_year\bin\Debug\leap_year.exe
+D:\schule\Ka übung\leap_year\leap_year\bin\Debug\leap_year.pdb
+D:\schule\Ka übung\leap_year\leap_year\obj\Debug\leap_year.csproj.AssemblyReference.cache
+D:\schule\Ka übung\leap_year\leap_year\obj\Debug\leap_year.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\leap_year\leap_year\obj\Debug\leap_year.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\leap_year\leap_year\obj\Debug\leap_year.exe
+D:\schule\Ka übung\leap_year\leap_year\obj\Debug\leap_year.pdb

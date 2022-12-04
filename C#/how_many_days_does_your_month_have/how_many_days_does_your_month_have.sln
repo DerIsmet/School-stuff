@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "how_many_days_does_your_month_have", "how_many_days_does_your_month_have\how_many_days_does_your_month_have.csproj", "{538D4BBE-452F-4A8D-B31D-3B73783C70F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538D4BBE-452F-4A8D-B31D-3B73783C70F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538D4BBE-452F-4A8D-B31D-3B73783C70F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538D4BBE-452F-4A8D-B31D-3B73783C70F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538D4BBE-452F-4A8D-B31D-3B73783C70F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF9E72B-C466-460C-BDE6-DBBAC870F9F5}
+	EndGlobalSection
+EndGlobal

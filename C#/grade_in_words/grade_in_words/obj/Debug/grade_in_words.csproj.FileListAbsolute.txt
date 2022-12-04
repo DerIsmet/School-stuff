@@ -1,0 +1,8 @@
+D:\schule\Ka übung\grade_in_words\grade_in_words\bin\Debug\grade_in_words.exe.config
+D:\schule\Ka übung\grade_in_words\grade_in_words\bin\Debug\grade_in_words.exe
+D:\schule\Ka übung\grade_in_words\grade_in_words\bin\Debug\grade_in_words.pdb
+D:\schule\Ka übung\grade_in_words\grade_in_words\obj\Debug\grade_in_words.csproj.AssemblyReference.cache
+D:\schule\Ka übung\grade_in_words\grade_in_words\obj\Debug\grade_in_words.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\grade_in_words\grade_in_words\obj\Debug\grade_in_words.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\grade_in_words\grade_in_words\obj\Debug\grade_in_words.exe
+D:\schule\Ka übung\grade_in_words\grade_in_words\obj\Debug\grade_in_words.pdb
