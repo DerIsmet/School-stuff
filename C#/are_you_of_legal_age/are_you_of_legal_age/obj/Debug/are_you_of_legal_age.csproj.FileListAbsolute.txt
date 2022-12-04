@@ -1,0 +1,8 @@
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\bin\Debug\are_you_of_legal_age.exe.config
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\bin\Debug\are_you_of_legal_age.exe
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\bin\Debug\are_you_of_legal_age.pdb
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\obj\Debug\are_you_of_legal_age.csproj.AssemblyReference.cache
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\obj\Debug\are_you_of_legal_age.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\obj\Debug\are_you_of_legal_age.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\obj\Debug\are_you_of_legal_age.exe
+D:\schule\Ka übung\are_you_of_legal_age\are_you_of_legal_age\obj\Debug\are_you_of_legal_age.pdb
