@@ -1,0 +1,8 @@
+D:\C#\dice_game\dice_game\bin\Debug\dice_game.exe.config
+D:\C#\dice_game\dice_game\bin\Debug\dice_game.exe
+D:\C#\dice_game\dice_game\bin\Debug\dice_game.pdb
+D:\C#\dice_game\dice_game\obj\Debug\dice_game.csproj.AssemblyReference.cache
+D:\C#\dice_game\dice_game\obj\Debug\dice_game.csproj.SuggestedBindingRedirects.cache
+D:\C#\dice_game\dice_game\obj\Debug\dice_game.csproj.CoreCompileInputs.cache
+D:\C#\dice_game\dice_game\obj\Debug\dice_game.exe
+D:\C#\dice_game\dice_game\obj\Debug\dice_game.pdb

@@ -1,0 +1,8 @@
+D:\C#\sum_program\sum_program\bin\Debug\sum_program.exe.config
+D:\C#\sum_program\sum_program\bin\Debug\sum_program.exe
+D:\C#\sum_program\sum_program\bin\Debug\sum_program.pdb
+D:\C#\sum_program\sum_program\obj\Debug\sum_program.csproj.AssemblyReference.cache
+D:\C#\sum_program\sum_program\obj\Debug\sum_program.csproj.SuggestedBindingRedirects.cache
+D:\C#\sum_program\sum_program\obj\Debug\sum_program.csproj.CoreCompileInputs.cache
+D:\C#\sum_program\sum_program\obj\Debug\sum_program.exe
+D:\C#\sum_program\sum_program\obj\Debug\sum_program.pdb
