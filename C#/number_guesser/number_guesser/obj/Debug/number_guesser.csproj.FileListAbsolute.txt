@@ -1,0 +1,8 @@
+D:\C#\number_guesser\number_guesser\bin\Debug\number_guesser.exe.config
+D:\C#\number_guesser\number_guesser\bin\Debug\number_guesser.exe
+D:\C#\number_guesser\number_guesser\bin\Debug\number_guesser.pdb
+D:\C#\number_guesser\number_guesser\obj\Debug\number_guesser.csproj.AssemblyReference.cache
+D:\C#\number_guesser\number_guesser\obj\Debug\number_guesser.csproj.SuggestedBindingRedirects.cache
+D:\C#\number_guesser\number_guesser\obj\Debug\number_guesser.csproj.CoreCompileInputs.cache
+D:\C#\number_guesser\number_guesser\obj\Debug\number_guesser.exe
+D:\C#\number_guesser\number_guesser\obj\Debug\number_guesser.pdb
