@@ -1,0 +1,8 @@
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\bin\Debug\sum_odd_numbers.exe.config
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\bin\Debug\sum_odd_numbers.exe
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\bin\Debug\sum_odd_numbers.pdb
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\obj\Debug\sum_odd_numbers.csproj.AssemblyReference.cache
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\obj\Debug\sum_odd_numbers.csproj.SuggestedBindingRedirects.cache
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\obj\Debug\sum_odd_numbers.csproj.CoreCompileInputs.cache
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\obj\Debug\sum_odd_numbers.exe
+D:\schule\Ka übung\sum_odd_numbers\sum_odd_numbers\obj\Debug\sum_odd_numbers.pdb
