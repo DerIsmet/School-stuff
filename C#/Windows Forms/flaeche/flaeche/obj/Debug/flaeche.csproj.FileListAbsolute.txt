@@ -1,0 +1,10 @@
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\bin\Debug\flaeche.exe.config
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\bin\Debug\flaeche.exe
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\bin\Debug\flaeche.pdb
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\obj\Debug\flaeche.csprojAssemblyReference.cache
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\obj\Debug\flaeche.Form1.resources
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\obj\Debug\flaeche.Properties.Resources.resources
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\obj\Debug\flaeche.csproj.GenerateResource.cache
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\obj\Debug\flaeche.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\obj\Debug\flaeche.exe
+H:\infT_c#\c#\Windows Forms\flaeche\flaeche\obj\Debug\flaeche.pdb
