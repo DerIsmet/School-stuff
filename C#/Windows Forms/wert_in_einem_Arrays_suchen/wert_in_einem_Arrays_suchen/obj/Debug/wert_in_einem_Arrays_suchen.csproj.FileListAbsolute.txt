@@ -1,0 +1,10 @@
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\bin\Debug\wert_in_einem_Arrays_suchen.exe.config
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\bin\Debug\wert_in_einem_Arrays_suchen.exe
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\bin\Debug\wert_in_einem_Arrays_suchen.pdb
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\obj\Debug\wert_in_einem_Arrays_suchen.csprojAssemblyReference.cache
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\obj\Debug\wert_in_einem_Arrays_suchen.Form1.resources
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\obj\Debug\wert_in_einem_Arrays_suchen.Properties.Resources.resources
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\obj\Debug\wert_in_einem_Arrays_suchen.csproj.GenerateResource.cache
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\obj\Debug\wert_in_einem_Arrays_suchen.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\obj\Debug\wert_in_einem_Arrays_suchen.exe
+H:\infT_c#\c#\Windows Forms\wert_in_einem_Arrays_suchen\wert_in_einem_Arrays_suchen\obj\Debug\wert_in_einem_Arrays_suchen.pdb
