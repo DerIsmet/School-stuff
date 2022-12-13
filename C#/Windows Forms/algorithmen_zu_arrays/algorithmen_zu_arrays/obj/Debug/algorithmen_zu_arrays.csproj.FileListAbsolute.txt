@@ -1,0 +1,10 @@
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\obj\Debug\algorithmen_zu_arrays.csprojAssemblyReference.cache
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\obj\Debug\algorithmen_zu_arrays.Form1.resources
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\obj\Debug\algorithmen_zu_arrays.Properties.Resources.resources
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\obj\Debug\algorithmen_zu_arrays.csproj.GenerateResource.cache
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\obj\Debug\algorithmen_zu_arrays.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\bin\Debug\algorithmen_zu_arrays.exe.config
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\bin\Debug\algorithmen_zu_arrays.exe
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\bin\Debug\algorithmen_zu_arrays.pdb
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\obj\Debug\algorithmen_zu_arrays.exe
+H:\infT_c#\c#\Windows Forms\algorithmen_zu_arrays\algorithmen_zu_arrays\obj\Debug\algorithmen_zu_arrays.pdb
