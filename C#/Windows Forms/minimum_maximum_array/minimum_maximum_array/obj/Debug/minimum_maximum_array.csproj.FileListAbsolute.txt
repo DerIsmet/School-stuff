@@ -1,0 +1,10 @@
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\bin\Debug\minimum_maximum_array.exe.config
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\bin\Debug\minimum_maximum_array.exe
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\bin\Debug\minimum_maximum_array.pdb
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\obj\Debug\minimum_maximum_array.csprojAssemblyReference.cache
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\obj\Debug\minimum_maximum_array.Form1.resources
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\obj\Debug\minimum_maximum_array.Properties.Resources.resources
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\obj\Debug\minimum_maximum_array.csproj.GenerateResource.cache
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\obj\Debug\minimum_maximum_array.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\obj\Debug\minimum_maximum_array.exe
+H:\infT_c#\c#\Konsole\minimum_maximum_array\minimum_maximum_array\obj\Debug\minimum_maximum_array.pdb
