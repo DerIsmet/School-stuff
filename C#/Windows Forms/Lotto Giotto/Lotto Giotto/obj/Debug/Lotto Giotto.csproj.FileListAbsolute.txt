@@ -1,0 +1,10 @@
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csprojAssemblyReference.cache
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto_Giotto.Form1.resources
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto_Giotto.Properties.Resources.resources
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csproj.GenerateResource.cache
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.exe.config
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.exe
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.pdb
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.exe
+H:\infT_c#\c#\Windows Forms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.pdb
